@@ -102,7 +102,7 @@ function create() {
   });
 
   this.score = 0;
-  this.scoreText = this.add.text(250, 610, 'Score : 0', {
+  this.scoreText = this.add.text(250, 0, 'Score : 0', {
     font: '18px Arial',
     fill: '#ffffff',
     backgroundColor: '#003366',
